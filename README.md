@@ -19,7 +19,7 @@ python -m ipykernel install --user --name dist-s1
 ## Generating datasets
 
 ```
-python run_events --event_name all
+python run_events.py --event_name all
 ```
 
 The datasets should be generated in an `out` directory. The total size currently is about 60 GB of data.
