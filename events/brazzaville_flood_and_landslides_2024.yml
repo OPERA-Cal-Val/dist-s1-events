@@ -7,7 +7,7 @@ event:
   rtc_track_numbers: [7, 109]
   mgrs_tiles: ['33MWR']
   dist_hls_confirmed_change_min_days: 30
-  source_id: "UNOSAT via humanitarian data exchange"
+  source_id: "UNOSAT via humanitarian data exchange - derived from WV2_20240208"
   links:
     - "2024 and 2023 combined: https://data.humdata.org/dataset/water-and-landslide-mudflow-extents-in-brazzaville-department-republic-of-congo-as-of-8-fe"
     - "2023: https://data.humdata.org/dataset/water-and-landslide-mudflow-extents-in-brazzaville-and-pool-departments-republic-of-congo-"
