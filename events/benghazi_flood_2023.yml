@@ -7,7 +7,7 @@ event:
   rtc_track_numbers: [80, 73]
   mgrs_tiles: ['34SDA']
   dist_hls_confirmed_change_min_days: 30
-  source_id: "Copernicus EMSR696"
+  source_id: "Copernicus EMSR696 AOI2"
   links:
     - "https://rapidmapping.emergency.copernicus.eu/EMSR696/download"
     - "https://apnews.com/article/libya-derna-floods-5d29f54b47bcc6daa6802e5f9c8f2d10"

@@ -41,6 +41,7 @@ def main(event_name: list | tuple, start_step: int, stop_step: int):
         event_names = [p.stem for p in geojson_files + parquet_files]
 
         event_names = [en for en in event_names if en not in EVENTS_NOT_READY]
+    print(f'Will run on the following {len(event_names)} sites: {"\n".join(event_names)}')
 
     in_nbs = [
         "1__DIST-HLS.ipynb",
