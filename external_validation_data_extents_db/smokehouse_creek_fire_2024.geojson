@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "smokehouse_creek_fire_2024", "date": "2024-03-19T00:00:00", "source_id": "WFIGS Smokehouse Creek" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -99.391068391997905, 35.031971129424761 ], [ -99.391068391997905, 36.559234096385829 ], [ -102.04123570497886, 36.559234096385829 ], [ -102.04123570497886, 35.031971129424761 ], [ -99.391068391997905, 35.031971129424761 ] ] ] } }
+]
+}
