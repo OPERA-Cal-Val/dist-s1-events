@@ -7,7 +7,7 @@ event:
   rtc_track_numbers: [130, 57]
   mgrs_tiles: ['37MBU']
   dist_hls_confirmed_change_min_days: 30
-  source_id: "UNOSAT via humanitarian data exchange - Pléiades image"
+  source_id: "UNOSAT via humanitarian data exchange from Pléiades image 20240501"
   links:
     - "https://data.humdata.org/dataset/landslide-mudslide-impact-in-mai-mahiu-and-kijabe-towns-kenya-as-of-1-may-2024"
     - "https://eos.org/thelandslideblog/mai-mahiu"
