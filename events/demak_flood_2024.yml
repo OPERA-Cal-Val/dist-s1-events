@@ -7,7 +7,7 @@ event:
   rtc_track_numbers: [76, 127]
   mgrs_tiles: ['49MDN', '49MEN']
   dist_hls_confirmed_change_min_days: 30
-  source_id: "UNOSAT via humanitarian data exchange and S1 optical"
+  source_id: "UNOSAT via humanitarian data exchange S1_20240319"
   links:
     - "https://data.humdata.org/dataset/satellite-detected-water-extent-over-jawa-tengah-province-indonesia-as-of-27-march-2024 - multiple dates via S1"
     - "https://unosat.org/products/3810"
