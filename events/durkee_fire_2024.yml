@@ -1,0 +1,14 @@
+event:
+  event_name: durkee_fire_2024
+  bounds: 
+  event_date: "2024-07-17"
+  pre_event_window_days: 100
+  post_event_window_days: 60
+  rtc_track_numbers: []
+  mgrs_tiles: []
+  dist_hls_confirmed_change_min_days: 30
+  source_id: 'WFIGS Park Fire 2024'
+  links:
+    - "https://ktvz.com/news/oregon-northwest/2024/08/07/after-3-weeks-294265-acre-durkee-fire-in-eastern-oregon-is-95-contained-management-returns-to-local-crews/"
+    - "https://en.wikipedia.org/wiki/Durkee_Fire"
+    - "super complicated because lots of adjacent fires"

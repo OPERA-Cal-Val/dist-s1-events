@@ -2,7 +2,7 @@ event:
   event_name: bangladesh_coastal_flood_2024
   bounds: [88.96546265, 21.65505773, 91.33990759, 24.17825791]
   event_date: "2024-07-08"
-  pre_event_window_days: 100
+  pre_event_window_days: 180
   post_event_window_days: 60
   rtc_track_numbers: [150, 114]
   mgrs_tiles: ['45QYE', '45QYF', '45QZE', '45QZF']
@@ -11,3 +11,5 @@ event:
   links:
     - "https://data.humdata.org/dataset/satellite-detected-water-extents-between-4-11-july-2024-in-bangladesh"
     - "https://reliefweb.int/disaster/fl-2024-000088-bgd"
+    - "Cyclone Remal in late May was the beginning of flooding; might be good to add pre-event images before that"
+    - "Remal: https://en.wikipedia.org/wiki/Cyclone_Remal"
