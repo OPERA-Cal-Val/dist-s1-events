@@ -5,7 +5,13 @@ import papermill as pm
 from tqdm import tqdm
 
 
-EVENTS_NOT_READY = ["attica_fire_2024", "paddock_fire_2024", "durkee_fire_2024"]
+EVENTS_NOT_READY = [
+    "attica_fire_2024",
+    "paddock_fire_2024",
+    "durkee_fire_2024",
+    "derna_flood_2023",
+    "benghazi_flood_2023",
+]
 
 geojson_files = list(Path("external_validation_data_db").glob("*.geojson"))
 parquet_files = list(Path("external_validation_data_db").glob("*.parquet"))
@@ -45,12 +51,12 @@ ALL_EVENTS = sorted(
 )
 @click.command()
 def main(event: str, start_step: int, stop_step: int, exclude_event: str):
-    events = [e.strip() for e in event.split(' ')]
+    events = [e.strip() for e in event.split(" ")]
 
     if "all" in events:
         events = ALL_EVENTS
     if exclude_event is not None:
-        exclude_events = [e.strip() for e in exclude_event.split(' ')]
+        exclude_events = [e.strip() for e in exclude_event.split(" ")]
         events = [e for e in events if e not in exclude_events]
 
     bad_events = [e for e in events if e not in ALL_EVENTS]
