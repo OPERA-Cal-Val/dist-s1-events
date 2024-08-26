@@ -1,0 +1,13 @@
+event:
+  event_name: chilcotin_river_landslide_and_flood_2024
+  bounds: [-122.92087775, 51.83943495, -122.69035819, 51.88365439]
+  event_date: "2024-07-30"
+  pre_event_window_days: 100
+  post_event_window_days: 60
+  rtc_track_numbers: [13, 137]
+  mgrs_tiles: [10UEC]
+  dist_hls_confirmed_change_min_days: 15
+  source_id: "Al Handwerger derived landslide and flood from Planet 3m; dry areas from HLS and ESA world cover by Charlie Marshak"
+  links:
+    - "https://chilcotin-river-landslide-2024-bcgov03.hub.arcgis.com/"
+    - "https://www.bluemarble.nasa.gov/images/153195/chilcotin-rivers-landslide-lake-begins-draining"
