@@ -74,7 +74,7 @@ def main(event: str, start_step: int, stop_step: int, exclude_event: str):
     for step in [start_step, stop_step]:
         assert step in list(range(1, 5)), "start and stop must be 1, 2, 3, 4"
 
-    in_nbs = in_nbs[start_step - 1 : stop_step]
+    in_nbs = in_nbs[start_step - 1: stop_step]
 
     ipynb_out_dir = Path("out_notebooks")
     ipynb_out_dir.mkdir(exist_ok=True, parents=True)
