@@ -6,7 +6,6 @@ from tqdm import tqdm
 
 
 EVENTS_NOT_READY = [
-    "attica_fire_2024",
     "paddock_fire_2024",
     "durkee_fire_2024",
     "derna_flood_2023",

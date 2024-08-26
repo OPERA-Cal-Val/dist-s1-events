@@ -23,7 +23,7 @@ Examples:
 ```
 python run_events.py --event all
 python run_events.py --event 'benghazi_flood_2023 chiapas_fire_2024'
-python run_events.py --event all --exclude_event 'bangladesh_coastal_flood_2024 benghazi_flood_2023'
+python run_events.py --event all --exclude_event 'bangladesh_coastal_flood_2024 yajiang_fire_2024'
 ```
 
 The datasets should be generated in an `out` directory. The total size currently is about 60 GB of data for all the possible events.
