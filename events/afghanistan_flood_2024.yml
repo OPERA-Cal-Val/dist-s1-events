@@ -1,0 +1,16 @@
+event:
+  event_name: afghanistan_flood_2024
+  bounds: [69.09383741, 36.10940165, 69.47475566, 36.53783484]
+  event_date: "2024-05-11"
+  pre_event_window_days: 180
+  post_event_window_days: 60
+  rtc_track_numbers: [71, 78]
+  mgrs_tiles: ['42SWF']
+  dist_hls_confirmed_change_min_days: 30
+  source_id: "UNOSAT via humanitarian data exchange Pléiades and S2"
+  links:
+    - "data: https://data.humdata.org/dataset/water-extent-in-baghlan-e-jadid-district-baghlan-province-afghanistan-as-of-14-may-2024"
+    - "https://en.wikipedia.org/wiki/2024_Afghanistan%E2%80%93Pakistan_floods"
+    - "https://reliefweb.int/map/afghanistan/mudflow-impact-burka-district-baghlan-province-afghanistan-14-may-2024-imagery-analysis-14052024-published-16052024-v2"
+    - "https://www.cnn.com/2024/05/13/asia/afghanistan-flooding-children-rescued-intl-hnk/index.html"
+    - "flooding beginning March 6 but mudflow documented in data was May"
