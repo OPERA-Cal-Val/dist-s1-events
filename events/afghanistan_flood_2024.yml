@@ -3,7 +3,7 @@ event:
   bounds: [69.09383741, 36.10940165, 69.47475566, 36.53783484]
   event_date: "2024-05-11"
   pre_event_window_days: 180
-  post_event_window_days: 60
+  post_event_window_days: 100
   rtc_track_numbers: [71, 78]
   mgrs_tiles: ['42SWF']
   dist_hls_confirmed_change_min_days: 30
