@@ -2,7 +2,7 @@ event:
   event_name: yajiang_fire_2024
   bounds: [100.96162212,  30.03892945, 101.33076217,  30.23238956]
   event_date: "2024-03-15"
-pre_event_window_days: 180
+  pre_event_window_days: 180
   post_event_window_days: 100
   rtc_track_numbers: [26, 135]
   mgrs_tiles: ['47RQP', '47RPP']
