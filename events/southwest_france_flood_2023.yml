@@ -2,7 +2,7 @@ event:
   event_name: southwest_france_flood_2023
   bounds: [-1.0829827, 45.58218716, 0.18731994, 45.98927041]
   event_date: "2023-12-14"
-pre_event_window_days: 180
+  pre_event_window_days: 180
   post_event_window_days: 100
   rtc_track_numbers: [30, 8]
   mgrs_tiles: ["30TXR", "30TYR"]

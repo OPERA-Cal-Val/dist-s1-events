@@ -2,7 +2,7 @@ event:
   event_name: tuscany_flood_2023
   bounds: [10.97631339, 43.81441325, 11.15319728, 43.98650075]
   event_date: "2023-11-02"
-pre_event_window_days: 180
+  pre_event_window_days: 180
   post_event_window_days: 100
   rtc_track_numbers: [15, 168]
   mgrs_tiles: ['32TPP']
