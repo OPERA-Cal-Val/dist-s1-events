@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "park_fire_2024", "date": "2024-08-12T00:00:00", "source_id": "WFIGS PARK" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -120.995040853023738, 39.271080671837169 ], [ -120.995040853023738, 40.894663386995134 ], [ -122.563277952454413, 40.894663386995134 ], [ -122.563277952454413, 39.271080671837169 ], [ -120.995040853023738, 39.271080671837169 ] ] ] } }
+]
+}

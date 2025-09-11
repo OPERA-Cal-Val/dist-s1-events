@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SensorDate": "2024-03-19T00:00:00Z", "SensorID": 42, "Notes": null, "Area_m2": 4403020486.7684317, "GlobalID": "{08798F9E-FCC1-454B-B0DE-16E408DC8C90}", "StaffID": 219, "EventCode": "FL20240326IDN", "SHAPE_Length": 2.5583383397818791, "SHAPE_Area": 0.36023623087800394, "Area_ha": 440302.0625 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 110.442760766000049, -6.684828921999951 ], [ 111.303323933000058, -6.683205019999946 ], [ 111.304125046000081, -7.101809441999933 ], [ 110.443561879000072, -7.103431910999916 ], [ 110.442760766000049, -6.684828921999951 ] ] ] ] } }
+]
+}
