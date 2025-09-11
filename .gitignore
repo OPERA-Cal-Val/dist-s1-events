@@ -96,3 +96,9 @@ db/external_data_organize/
 # temporary formats
 *.geojson
 *.parquet
+
+# add parquet files
+!event_metadata.parquet
+!event_extents.parquet
+# !event_perimeters.parquet
+!event_sites.parquet

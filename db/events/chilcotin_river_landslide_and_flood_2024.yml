@@ -1,7 +1,7 @@
 event:
   event_name: chilcotin_river_landslide_and_flood_2024
   event_date: "2024-07-30"
-  mgrs_tiles: [10UEC]
+  mgrs_tiles: ['10UEC']
   source_id: "Al Handwerger derived landslide and flood from Planet 3m; dry areas from HLS and ESA world cover by Charlie Marshak"
   links:
     - "https://chilcotin-river-landslide-2024-bcgov03.hub.arcgis.com/"
