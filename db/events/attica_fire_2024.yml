@@ -1,0 +1,9 @@
+event:
+  event_name: attica_fire_2024
+  event_date: "2024-08-11"
+  mgrs_tiles: ['34SGH']
+  source_id: "Copernicus EMSR746"
+  links:
+    - "https://rapidmapping.emergency.copernicus.eu/EMSR746"
+    - "https://en.wikipedia.org/wiki/2024_Attica_wildfires"
+    - "https://www.independent.co.uk/news/world/europe/greece-wildfires-latest-satellite-images-b2595495.html"

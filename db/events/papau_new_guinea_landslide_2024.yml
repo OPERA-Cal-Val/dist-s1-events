@@ -1,0 +1,7 @@
+event:
+  event_name: papau_new_guinea_landslide_2024
+  event_date: '2024-05-24'
+  mgrs_tiles: [54MYV]
+  source_id: 'Al Handwerger derived from Planet 3m'
+  links:
+      - 'https://www.cnn.com/2024/05/28/asia/papua-new-guinea-landslide-satellite-imagery-intl/index.html'

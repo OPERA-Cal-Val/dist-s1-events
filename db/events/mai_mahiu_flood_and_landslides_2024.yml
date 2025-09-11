@@ -1,0 +1,8 @@
+event:
+  event_name: mai_mahiu_flood_and_landslides_2024
+  event_date: "2024-04-29"
+  mgrs_tiles: ['37MBU']
+  source_id: "UNOSAT via humanitarian data exchange from Pléiades image 20240501"
+  links:
+    - "https://data.humdata.org/dataset/landslide-mudslide-impact-in-mai-mahiu-and-kijabe-towns-kenya-as-of-1-may-2024"
+    - "https://eos.org/thelandslideblog/mai-mahiu"

@@ -1,0 +1,8 @@
+event:
+  event_name: tuscany_flood_2023
+  event_date: "2023-11-02"
+  mgrs_tiles: ['32TPP']
+  source_id: "Copernicus EMSN185"
+  links:
+    - "https://emergency.copernicus.eu/mapping/list-of-components/EMSN185"
+    - "https://earthobservatory.nasa.gov/images/152051/flooding-in-tuscany"

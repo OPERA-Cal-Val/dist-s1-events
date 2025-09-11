@@ -1,0 +1,8 @@
+event:
+  event_name: demak_flood_2024
+  event_date: "2024-03-15"
+  mgrs_tiles: ['49MDN', '49MEN']
+  source_id: "UNOSAT via humanitarian data exchange S1_20240319"
+  links:
+    - "https://data.humdata.org/dataset/satellite-detected-water-extent-over-jawa-tengah-province-indonesia-as-of-27-march-2024 - multiple dates via S1"
+    - "https://unosat.org/products/3810"

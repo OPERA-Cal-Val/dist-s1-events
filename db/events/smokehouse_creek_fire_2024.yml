@@ -1,0 +1,7 @@
+event:
+  event_name: smokehouse_creek_fire_2024 
+  event_date: "2024-02-26"
+  mgrs_tiles: ['14SKE', '14SLE', '14SME']
+  source_id: 'WFIGS Smokehouse Creek Fire 2024'
+  links:
+    - "https://en.wikipedia.org/wiki/Smokehouse_Creek_Fire"

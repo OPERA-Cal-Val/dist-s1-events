@@ -1,0 +1,9 @@
+event:
+  event_name: cipongkor_landslides_2024
+  event_date: "2024-03-24"
+  mgrs_tiles: ['48MYT']
+  source_id: "UNOSAT via humanitarian data exchange WV3_20240329"
+  links:
+    - "https://reliefweb.int/map/indonesia/landslide-impact-analysis-cipongkor-sub-district-bandung-barat-district-jawa-barat-province-indonesia-29-march-2024-imagery-analysis-29032024-published-18042024-v1"
+    - "https://www.kompas.id/baca/english/2024/03/30/en-puasa-berselimut-duka-korban-longsor-cipongkor-di-bandung-barat"
+    - "data: https://data.humdata.org/dataset/landslide-impact-analysis-in-cipongkor-sub-district-bandung-barat-district-jawa-barat-prov "

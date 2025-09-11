@@ -1,0 +1,8 @@
+event:
+  event_name: yajiang_fire_2024
+  event_date: "2024-03-15"
+  mgrs_tiles: ['47RQP', '47RPP']
+  source_id: "UNOSAT via humanitarian data exchange"
+  links:
+    - "https://data.humdata.org/dataset/the-wildfire-area-of-yajiang-country-sichuan-province-china via SDGSAT-1 MSI - March 3 and March 19"
+    - "https://www.rfa.org/english/news/tibet/sichuan-wildfires-03182024171046.html"

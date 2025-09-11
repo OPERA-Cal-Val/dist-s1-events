@@ -1,0 +1,9 @@
+event:
+  event_name: brazzaville_flood_and_landslides_2023
+  event_date: "2023-12-28"
+  mgrs_tiles: ['33MWR']
+  source_id: "UNOSAT via humanitarian data exchange S2_20231228 "
+  links:
+    - "2024 and 2023 combined: https://data.humdata.org/dataset/water-and-landslide-mudflow-extents-in-brazzaville-department-republic-of-congo-as-of-8-fe"
+    - "2023: https://data.humdata.org/dataset/water-and-landslide-mudflow-extents-in-brazzaville-and-pool-departments-republic-of-congo-"
+    - "2024: https://global-flood.emergency.copernicus.eu/news/159-flooding-in-the-democratic-republic-of-the-congo-and-congo-brazzaville-january-2024"

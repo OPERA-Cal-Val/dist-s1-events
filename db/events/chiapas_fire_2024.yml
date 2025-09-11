@@ -1,0 +1,10 @@
+event:
+  event_name: chiapas_fire_2024
+  event_date: "2024-03-24"
+  mgrs_tiles: ['15QUU']
+  links:
+    - "data: https://rapidmapping.emergency.copernicus.eu/EMSR717"
+    - "https://earthobservatory.nasa.gov/images/152628/fire-in-southern-mexico"
+    - "date of start: https://emergency.copernicus.eu/mapping/list-of-components/EMSR506"
+    - "https://www.latimes.com/california/story/2024-03-15/wildfire-devastates-oaxaca-region-famed-for-mezcal"
+    - "wildfires typicall start in March but actually came early - lots of pre-event dates show signs of burn scarring"
