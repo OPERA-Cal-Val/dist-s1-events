@@ -1,0 +1,8 @@
+event:
+  event_name: hokkaido_landslides_2018
+  event_date: '2018-09-06'
+  mgrs_tiles: ['54TWN']
+  source_id: "Zhang, S., Li, R., Wang, F., and Iio, A.: Characteristics of landslides triggered by the 2018 Hokkaido Eastern Iburi earthquake, Northern Japan, Landslides, 16, 1691–1708, https://doi.org/10.1007/s10346-019-01207-6, 2019a."
+  links:
+    - "https://doi.org/10.1007/s10346-019-01207-6"
+    - "https://earthobservatory.nasa.gov/images/92832/landslides-in-hokkaido"

@@ -1,0 +1,7 @@
+event:
+  event_name: los_angeles_fires_2025
+  event_date: "2025-01-04"
+  mgrs_tiles: ['11SLT']
+  source_id: 'WFIGS all fires in MGRS tile 11SLT within 20 days of January 4, 2025 - includes Eaton and Palisades fires'
+  links:
+    - "https://en.wikipedia.org/wiki/January_2025_Southern_California_wildfires"

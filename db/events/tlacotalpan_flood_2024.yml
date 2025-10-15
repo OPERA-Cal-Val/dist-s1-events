@@ -1,0 +1,7 @@
+event:
+  event_name: tlacotalpan_flood_2024
+  event_date: "2024-10-29"
+  mgrs_tiles: ['14QRF']
+  source_id: "EMSR774"
+  links:
+    - "https://mapping.emergency.copernicus.eu/activations/EMSR774/"

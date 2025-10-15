@@ -1,0 +1,7 @@
+event:
+  event_name: porto_alegre_flood_2024
+  event_date: "2024-05-28"
+  mgrs_tiles: ['22JDM', '22JDN']
+  source_id: "EMSN194_STD_AOI01_P04FLDEL01_FloodExtent_v01"
+  links:
+    - "https://mapping.emergency.copernicus.eu/activations/EMSN194/"
