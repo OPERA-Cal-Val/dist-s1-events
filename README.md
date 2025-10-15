@@ -31,8 +31,8 @@ event:
     - 'link 2'
 ```
 
-2. A geojson or parquet file in `db/event_perimeters` that is called either `<event_name>.geojson` or `<event_parquet>.parquet`. with the perimeter
-3. A geojson or parquet file in `db/event_extents` that is called either `<event_name>.geojson` or `<event_parquet>.parquet`. with the extent
+2. A parquet file in `db/event_perimeters` that is called `<event_parquet>.parquet` with the perimeter
+3. A parquet file in `db/event_extents` that is called `<event_parquet>.parquet` with the extent
 
 The notebook aggregates this data to make sure everything is properly formatted and included.
 
