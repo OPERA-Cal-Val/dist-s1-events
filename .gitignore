@@ -93,5 +93,7 @@ out/
 db/external_validation_data/
 db/external_data_organize/
 
+notebooks/
+
 # add parquet files
 # event_perimeters.parquet
